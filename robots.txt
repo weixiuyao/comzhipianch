@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weixiuyao.github.io/comzhipianch/sitemap.xml
